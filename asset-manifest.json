@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beadyvoice/static/css/main.073c9b0a.css",
+    "main.js": "/beadyvoice/static/js/main.ee062d6b.js",
+    "static/js/787.5ef513cc.chunk.js": "/beadyvoice/static/js/787.5ef513cc.chunk.js",
+    "static/media/logo.svg": "/beadyvoice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beadyvoice/index.html",
+    "main.073c9b0a.css.map": "/beadyvoice/static/css/main.073c9b0a.css.map",
+    "main.ee062d6b.js.map": "/beadyvoice/static/js/main.ee062d6b.js.map",
+    "787.5ef513cc.chunk.js.map": "/beadyvoice/static/js/787.5ef513cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee062d6b.js"
+  ]
+}
